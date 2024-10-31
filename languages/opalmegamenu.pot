@@ -1,0 +1,623 @@
+# Copyright (C) 2021 WpOpal
+# This file is distributed under the same license as the Opal Megamenu For Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Opal Megamenu For Elementor 1.1.14\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/opal-megamenu-for-elementor\n"
+"POT-Creation-Date: 2021-01-15 06:56:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: WPOPAL Team <help@wpopal.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: includes/admin/class-admin-assets.php:60
+msgid "Close"
+msgstr ""
+
+#: includes/admin/class-admin-assets.php:61
+msgid "Save"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:30
+msgid "Understrap"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:34
+msgid "Welcome"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:54
+msgid "Megamenu Template"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:62
+msgid "Welcome to Use Opal Megamenu"
+msgstr ""
+
+#: includes/admin/class-admin-menu.php:105
+msgid "No sample data menu for you now, we will update very soon."
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:30
+msgid "Add New Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:31
+msgid "New Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:32
+msgid "Edit Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:33
+msgid "View Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:34
+msgid "All Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:35
+msgid "Search Items"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:36
+msgid "Parent Items:"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:37
+msgid "No menus found."
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:38
+msgid "No menus found in Trash."
+msgstr ""
+
+#: includes/hook-functions.php:53
+msgid "Back"
+msgstr ""
+
+#: includes/hook-functions.php:57 includes/hook-functions.php:59
+msgid "Responsive Mode"
+msgstr ""
+
+#: includes/hook-functions.php:65
+msgid "Desktop"
+msgstr ""
+
+#: includes/hook-functions.php:66
+msgid "Default Preview"
+msgstr ""
+
+#: includes/hook-functions.php:70
+msgid "Tablet"
+msgstr ""
+
+#: includes/hook-functions.php:72
+msgid "Preview for %s"
+msgstr ""
+
+#: includes/hook-functions.php:76
+msgid "Mobile"
+msgstr ""
+
+#: includes/hook-functions.php:77
+msgid "Preview for 360px"
+msgstr ""
+
+#: includes/hook-functions.php:82 includes/hook-functions.php:84
+msgid "History"
+msgstr ""
+
+#: includes/hook-functions.php:86 includes/hook-functions.php:89
+msgid "Preview Changes"
+msgstr ""
+
+#: includes/hook-functions.php:98
+msgid "Publish"
+msgstr ""
+
+#: includes/hook-functions.php:103 includes/hook-functions.php:105
+msgid "Save Options"
+msgstr ""
+
+#: includes/hook-functions.php:119
+msgid "Save Draft"
+msgstr ""
+
+#: includes/hook-functions.php:123
+msgid "Save as Template"
+msgstr ""
+
+#: includes/hook-functions.php:139 includes/hook-functions.php:180
+msgid "Access denied"
+msgstr ""
+
+#: includes/hook-functions.php:220
+msgid "Menu Description"
+msgstr ""
+
+#: includes/hook-functions.php:224
+msgid "Icon"
+msgstr ""
+
+#: includes/hook-functions.php:234
+msgid "Icon Color"
+msgstr ""
+
+#: includes/hook-functions.php:239
+msgid "Badges Title"
+msgstr ""
+
+#: includes/hook-functions.php:243
+msgid "Badges Color"
+msgstr ""
+
+#: includes/hook-functions.php:247
+msgid "Badges Bg Color"
+msgstr ""
+
+#: includes/hook-functions.php:252
+msgid "Mega Submenu Enabled"
+msgstr ""
+
+#: includes/hook-functions.php:254 includes/hook-functions.php:265
+msgid "Yes"
+msgstr ""
+
+#: includes/hook-functions.php:255
+msgid "No"
+msgstr ""
+
+#: includes/hook-functions.php:258
+msgid "Edit Megamenu Submenu"
+msgstr ""
+
+#: includes/hook-functions.php:263
+msgid "Sub Megamenu Width"
+msgstr ""
+
+#: includes/hook-functions.php:266
+msgid "Set FullWidth"
+msgstr ""
+
+#: includes/hook-functions.php:267
+msgid "Set Stretch Width"
+msgstr ""
+
+#: includes/hook-functions.php:272
+msgid "Sub Mega Menu Max Width"
+msgstr ""
+
+#: includes/widgets/megamenu.php:28
+msgid "Mega Menu"
+msgstr ""
+
+#: includes/widgets/megamenu.php:66 includes/widgets/megamenu.php:100
+#: includes/widgets/nav_menu.php:63 includes/widgets/nav_menu.php:97
+#: templates/widgets/megamenu.php:63 templates/widgets/megamenu.php:97
+msgid "Layout"
+msgstr ""
+
+#: includes/widgets/megamenu.php:76 includes/widgets/nav_menu.php:73
+#: templates/widgets/megamenu.php:73
+msgid "Menu"
+msgstr ""
+
+#: includes/widgets/megamenu.php:82 includes/widgets/nav_menu.php:79
+#: templates/widgets/megamenu.php:79
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: includes/widgets/megamenu.php:90 includes/widgets/nav_menu.php:87
+#: templates/widgets/megamenu.php:87
+msgid ""
+"<strong>There are no menus in your site.</strong><br>Go to the <a "
+"href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: includes/widgets/megamenu.php:104 includes/widgets/nav_menu.php:101
+#: templates/widgets/megamenu.php:101
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/megamenu.php:105 includes/widgets/nav_menu.php:102
+#: templates/widgets/megamenu.php:102
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/megamenu.php:106 includes/widgets/megamenu.php:762
+#: includes/widgets/nav_menu.php:103 includes/widgets/nav_menu.php:777
+#: templates/widgets/megamenu.php:103 templates/widgets/megamenu.php:777
+msgid "Dropdown"
+msgstr ""
+
+#: includes/widgets/megamenu.php:115 includes/widgets/megamenu.php:365
+#: includes/widgets/nav_menu.php:112 includes/widgets/nav_menu.php:380
+#: templates/widgets/megamenu.php:112 templates/widgets/megamenu.php:380
+msgid "Align"
+msgstr ""
+
+#: includes/widgets/megamenu.php:120 includes/widgets/megamenu.php:406
+#: includes/widgets/nav_menu.php:117 includes/widgets/nav_menu.php:421
+#: templates/widgets/megamenu.php:117 templates/widgets/megamenu.php:421
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/megamenu.php:124 includes/widgets/megamenu.php:370
+#: includes/widgets/megamenu.php:410 includes/widgets/nav_menu.php:121
+#: includes/widgets/nav_menu.php:385 includes/widgets/nav_menu.php:425
+#: templates/widgets/megamenu.php:121 templates/widgets/megamenu.php:385
+#: templates/widgets/megamenu.php:425
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/megamenu.php:128 includes/widgets/megamenu.php:414
+#: includes/widgets/nav_menu.php:125 includes/widgets/nav_menu.php:429
+#: templates/widgets/megamenu.php:125 templates/widgets/megamenu.php:429
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/megamenu.php:132 includes/widgets/nav_menu.php:129
+#: templates/widgets/megamenu.php:129
+msgid "Stretch"
+msgstr ""
+
+#: includes/widgets/megamenu.php:146 includes/widgets/nav_menu.php:143
+#: templates/widgets/megamenu.php:143
+msgid "Pointer"
+msgstr ""
+
+#: includes/widgets/megamenu.php:150 includes/widgets/megamenu.php:263
+#: includes/widgets/megamenu.php:386 includes/widgets/nav_menu.php:147
+#: includes/widgets/nav_menu.php:260 includes/widgets/nav_menu.php:401
+#: templates/widgets/megamenu.php:147 templates/widgets/megamenu.php:260
+#: templates/widgets/megamenu.php:401
+msgid "None"
+msgstr ""
+
+#: includes/widgets/megamenu.php:151 includes/widgets/nav_menu.php:148
+#: templates/widgets/megamenu.php:148
+msgid "Underline"
+msgstr ""
+
+#: includes/widgets/megamenu.php:152 includes/widgets/nav_menu.php:149
+#: templates/widgets/megamenu.php:149
+msgid "Overline"
+msgstr ""
+
+#: includes/widgets/megamenu.php:153 includes/widgets/nav_menu.php:150
+#: templates/widgets/megamenu.php:150
+msgid "Double Line"
+msgstr ""
+
+#: includes/widgets/megamenu.php:154 includes/widgets/nav_menu.php:151
+#: templates/widgets/megamenu.php:151
+msgid "Framed"
+msgstr ""
+
+#: includes/widgets/megamenu.php:155 includes/widgets/nav_menu.php:152
+#: templates/widgets/megamenu.php:152
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/megamenu.php:156 includes/widgets/nav_menu.php:153
+#: templates/widgets/megamenu.php:153
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/megamenu.php:157 includes/widgets/nav_menu.php:154
+#: templates/widgets/megamenu.php:154
+msgid "Dot"
+msgstr ""
+
+#: includes/widgets/megamenu.php:168 includes/widgets/megamenu.php:189
+#: includes/widgets/megamenu.php:210 includes/widgets/megamenu.php:237
+#: includes/widgets/nav_menu.php:165 includes/widgets/nav_menu.php:186
+#: includes/widgets/nav_menu.php:207 includes/widgets/nav_menu.php:234
+#: templates/widgets/megamenu.php:165 templates/widgets/megamenu.php:186
+#: templates/widgets/megamenu.php:207 templates/widgets/megamenu.php:234
+msgid "Animation"
+msgstr ""
+
+#: includes/widgets/megamenu.php:259 includes/widgets/nav_menu.php:256
+#: templates/widgets/megamenu.php:256
+msgid "Submenu Indicator"
+msgstr ""
+
+#: includes/widgets/megamenu.php:264 includes/widgets/nav_menu.php:261
+#: templates/widgets/megamenu.php:261
+msgid "Classic"
+msgstr ""
+
+#: includes/widgets/megamenu.php:265 includes/widgets/nav_menu.php:262
+#: templates/widgets/megamenu.php:262
+msgid "Chevron"
+msgstr ""
+
+#: includes/widgets/megamenu.php:266 includes/widgets/nav_menu.php:263
+#: templates/widgets/megamenu.php:263
+msgid "Angle"
+msgstr ""
+
+#: includes/widgets/megamenu.php:267 includes/widgets/nav_menu.php:264
+#: templates/widgets/megamenu.php:264
+msgid "Plus"
+msgstr ""
+
+#: includes/widgets/megamenu.php:276 includes/widgets/nav_menu.php:273
+#: templates/widgets/megamenu.php:273
+msgid "Min width Submenu(px)"
+msgstr ""
+
+#: includes/widgets/megamenu.php:294 includes/widgets/nav_menu.php:291
+#: templates/widgets/megamenu.php:291
+msgid "Max width Submenu(px)"
+msgstr ""
+
+#: includes/widgets/megamenu.php:311 includes/widgets/nav_menu.php:308
+#: templates/widgets/megamenu.php:308
+msgid "Mobile Dropdown"
+msgstr ""
+
+#: includes/widgets/megamenu.php:323 includes/widgets/nav_menu.php:320
+#: templates/widgets/megamenu.php:320
+msgid "Enable Mobile Menu"
+msgstr ""
+
+#: includes/widgets/megamenu.php:332 includes/widgets/nav_menu.php:329
+#: templates/widgets/megamenu.php:329
+msgid "Breakpoint"
+msgstr ""
+
+#: includes/widgets/megamenu.php:336 includes/widgets/nav_menu.php:333
+#: templates/widgets/megamenu.php:333
+msgid "Mobile (767px >)"
+msgstr ""
+
+#: includes/widgets/megamenu.php:337 includes/widgets/nav_menu.php:334
+#: templates/widgets/megamenu.php:334
+msgid "Tablet (1023px >)"
+msgstr ""
+
+#: includes/widgets/megamenu.php:350 includes/widgets/nav_menu.php:365
+#: templates/widgets/megamenu.php:365
+msgid "Full Width"
+msgstr ""
+
+#: includes/widgets/megamenu.php:352 includes/widgets/nav_menu.php:367
+#: templates/widgets/megamenu.php:367
+msgid "Stretch the dropdown of the menu to full width."
+msgstr ""
+
+#: includes/widgets/megamenu.php:369 includes/widgets/nav_menu.php:384
+#: templates/widgets/megamenu.php:384
+msgid "Aside"
+msgstr ""
+
+#: includes/widgets/megamenu.php:382 includes/widgets/megamenu.php:985
+#: includes/widgets/nav_menu.php:397 includes/widgets/nav_menu.php:1000
+#: templates/widgets/megamenu.php:397 templates/widgets/megamenu.php:1130
+msgid "Toggle Button"
+msgstr ""
+
+#: includes/widgets/megamenu.php:387 includes/widgets/nav_menu.php:402
+#: templates/widgets/megamenu.php:402
+msgid "Hamburger"
+msgstr ""
+
+#: includes/widgets/megamenu.php:401 includes/widgets/nav_menu.php:416
+#: templates/widgets/megamenu.php:416
+msgid "Toggle Align"
+msgstr ""
+
+#: includes/widgets/megamenu.php:440 includes/widgets/nav_menu.php:455
+#: templates/widgets/megamenu.php:455
+msgid "Main Menu"
+msgstr ""
+
+#: includes/widgets/megamenu.php:463 includes/widgets/megamenu.php:784
+#: includes/widgets/megamenu.php:998 includes/widgets/nav_menu.php:478
+#: includes/widgets/nav_menu.php:799 includes/widgets/nav_menu.php:1013
+#: templates/widgets/megamenu.php:478 templates/widgets/megamenu.php:799
+#: templates/widgets/megamenu.php:1018 templates/widgets/megamenu.php:1143
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/megamenu.php:470 includes/widgets/megamenu.php:545
+#: includes/widgets/megamenu.php:566 includes/widgets/megamenu.php:615
+#: includes/widgets/megamenu.php:791 includes/widgets/megamenu.php:825
+#: includes/widgets/nav_menu.php:485 includes/widgets/nav_menu.php:560
+#: includes/widgets/nav_menu.php:581 includes/widgets/nav_menu.php:630
+#: includes/widgets/nav_menu.php:806 includes/widgets/nav_menu.php:840
+#: templates/widgets/megamenu.php:485 templates/widgets/megamenu.php:560
+#: templates/widgets/megamenu.php:581 templates/widgets/megamenu.php:630
+#: templates/widgets/megamenu.php:806 templates/widgets/megamenu.php:840
+#: templates/widgets/megamenu.php:1026 templates/widgets/megamenu.php:1046
+msgid "Text Color"
+msgstr ""
+
+#: includes/widgets/megamenu.php:486 includes/widgets/nav_menu.php:501
+#: templates/widgets/megamenu.php:501
+msgid "Enable Divider"
+msgstr ""
+
+#: includes/widgets/megamenu.php:497 includes/widgets/nav_menu.php:512
+#: templates/widgets/megamenu.php:512
+msgid "Divider Color"
+msgstr ""
+
+#: includes/widgets/megamenu.php:516 includes/widgets/nav_menu.php:531
+#: templates/widgets/megamenu.php:531
+msgid "Divider Padding"
+msgstr ""
+
+#: includes/widgets/megamenu.php:538 includes/widgets/megamenu.php:818
+#: includes/widgets/megamenu.php:1029 includes/widgets/nav_menu.php:553
+#: includes/widgets/nav_menu.php:833 includes/widgets/nav_menu.php:1044
+#: templates/widgets/megamenu.php:553 templates/widgets/megamenu.php:833
+#: templates/widgets/megamenu.php:1039 templates/widgets/megamenu.php:1174
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/megamenu.php:584 includes/widgets/megamenu.php:627
+#: includes/widgets/nav_menu.php:599 includes/widgets/nav_menu.php:642
+#: templates/widgets/megamenu.php:599 templates/widgets/megamenu.php:642
+msgid "Pointer Color"
+msgstr ""
+
+#: includes/widgets/megamenu.php:608 includes/widgets/nav_menu.php:623
+#: templates/widgets/megamenu.php:623
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/megamenu.php:658 includes/widgets/nav_menu.php:673
+#: templates/widgets/megamenu.php:673
+msgid "Pointer Width"
+msgstr ""
+
+#: includes/widgets/megamenu.php:686 includes/widgets/megamenu.php:900
+#: includes/widgets/nav_menu.php:701 includes/widgets/nav_menu.php:915
+#: templates/widgets/megamenu.php:701 templates/widgets/megamenu.php:915
+#: templates/widgets/megamenu.php:1089
+msgid "Horizontal Padding"
+msgstr ""
+
+#: includes/widgets/megamenu.php:704 includes/widgets/megamenu.php:913
+#: includes/widgets/nav_menu.php:719 includes/widgets/nav_menu.php:928
+#: templates/widgets/megamenu.php:719 templates/widgets/megamenu.php:928
+#: templates/widgets/megamenu.php:1107
+msgid "Vertical Padding"
+msgstr ""
+
+#: includes/widgets/megamenu.php:721 includes/widgets/nav_menu.php:736
+#: templates/widgets/megamenu.php:736
+msgid "Space Between"
+msgstr ""
+
+#: includes/widgets/megamenu.php:740 includes/widgets/megamenu.php:875
+#: includes/widgets/megamenu.php:1095 includes/widgets/nav_menu.php:755
+#: includes/widgets/nav_menu.php:890 includes/widgets/nav_menu.php:1110
+#: templates/widgets/megamenu.php:755 templates/widgets/megamenu.php:890
+#: templates/widgets/megamenu.php:1240
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/megamenu.php:773 includes/widgets/nav_menu.php:788
+#: templates/widgets/megamenu.php:788
+msgid ""
+"On desktop, this will affect the submenu. On mobile, this will affect the "
+"entire menu."
+msgstr ""
+
+#: includes/widgets/megamenu.php:803 includes/widgets/megamenu.php:837
+#: includes/widgets/megamenu.php:1016 includes/widgets/megamenu.php:1047
+#: includes/widgets/nav_menu.php:818 includes/widgets/nav_menu.php:852
+#: includes/widgets/nav_menu.php:1031 includes/widgets/nav_menu.php:1062
+#: templates/widgets/megamenu.php:818 templates/widgets/megamenu.php:852
+#: templates/widgets/megamenu.php:1058 templates/widgets/megamenu.php:1075
+#: templates/widgets/megamenu.php:1161 templates/widgets/megamenu.php:1192
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/megamenu.php:929 includes/widgets/nav_menu.php:944
+#: templates/widgets/megamenu.php:944
+msgid "Divider"
+msgstr ""
+
+#: includes/widgets/megamenu.php:947 includes/widgets/megamenu.php:1079
+#: includes/widgets/nav_menu.php:962 includes/widgets/nav_menu.php:1094
+#: templates/widgets/megamenu.php:962 templates/widgets/megamenu.php:1224
+msgid "Border Width"
+msgstr ""
+
+#: includes/widgets/megamenu.php:966 includes/widgets/nav_menu.php:981
+#: templates/widgets/megamenu.php:981
+msgid "Distance"
+msgstr ""
+
+#: includes/widgets/megamenu.php:1005 includes/widgets/megamenu.php:1036
+#: includes/widgets/nav_menu.php:1020 includes/widgets/nav_menu.php:1051
+#: templates/widgets/megamenu.php:1150 templates/widgets/megamenu.php:1181
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/megamenu.php:1062 includes/widgets/nav_menu.php:1077
+#: templates/widgets/megamenu.php:1207
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/nav_menu.php:25 templates/widgets/megamenu.php:25
+msgid "Opal Nav Menu"
+msgstr ""
+
+#: includes/widgets/nav_menu.php:347 templates/widgets/megamenu.php:347
+msgid "Style Display"
+msgstr ""
+
+#: includes/widgets/nav_menu.php:351 templates/widgets/megamenu.php:351
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/nav_menu.php:352 templates/widgets/megamenu.php:352
+msgid "Popup"
+msgstr ""
+
+#: includes/widgets/nav_menu.php:353 templates/widgets/megamenu.php:353
+msgid "Offcanvas"
+msgstr ""
+
+#: templates/widgets/megamenu.php:1003
+msgid "Sub Menu"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Opal Megamenu For Elementor"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wpopal.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"great menu for your site which built in with elementor - page builder "
+"plugin. This module supports displaying rich content in submenu items as  g "
+"text, images, widgets or articles"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WpOpal"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:25
+msgctxt "post type general name"
+msgid "Menu Item"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:26
+msgctxt "post type singular name"
+msgid "Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:27
+msgctxt "admin menu"
+msgid "Menu Items"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:28
+msgctxt "add new on admin bar"
+msgid "Menu"
+msgstr ""
+
+#: includes/class-menu-item-post-type.php:29
+msgctxt "book"
+msgid "Add New"
+msgstr ""

@@ -1,0 +1,60 @@
+@mixin box-shadow($shadow...) {
+    box-shadow: $shadow;
+}
+
+
+@mixin opacity($opacity) {
+    opacity: $opacity;
+    -ms-opacity: $opacity;
+    -o-opacity: $opacity;
+    -moz-opacity: $opacity;
+    -webkit-opacity: $opacity;
+    // IE8 filter
+    $opacity-ie: ($opacity * 100);
+    filter: alpha(opacity=$opacity-ie);
+}
+@mixin border-radius($radius: $border-radius) {
+    border-radius: $radius;
+}
+
+@mixin scale($ratio...) {
+    -ms-transform: scale($ratio);
+    -o-transform: scale($ratio);
+    -moz-transform: scale($ratio);
+    -webkit-transform: scale($ratio);
+    transform: scale($ratio);
+}
+/// 
+@mixin font-size($fontSize){
+    font-size: $fontSize + px;
+    font-size: ($fontSize/ 16)+rem;
+}
+
+@mixin translateY($y) {
+    -ms-transform: translateY($y);
+    -o-transform: translateY($y);
+    -moz-transform: translateY($y);
+    -webkit-transform: translateY($y);
+    transform: translateY($y);
+}
+
+
+@mixin size($width, $height: $width) {
+  width: $width;
+  height: $height;
+}
+
+
+@mixin transition($transition...) {
+  @if $enable-transitions {
+    @if length($transition) == 0 {
+      transition: $transition-base;
+    } @else {
+      transition: $transition;
+    }
+  }
+
+  @media screen and (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}

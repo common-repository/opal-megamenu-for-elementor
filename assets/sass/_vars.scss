@@ -1,0 +1,39 @@
+$enable-transitions : true !default;
+$white1 : #f1f1f1 !default;
+$black1 : #666 !default;
+$black2 : #999 !default;
+$gray10: #CCC !default;
+$grid-gutter-width: 30px !default;
+$border-color : #ddd !default;
+$gray1 : #CCC !default;
+$gray13 : #CCC !default;
+$primary : #212121;
+$secondary : #666;
+$transparent: none !default;
+$transition-base:             all .2s ease-in-out !default;
+$transition-fade:             opacity .15s linear !default;
+$transition-collapse:         height .35s ease !default;
+
+
+.rounded-circle {
+    border-radius: 50% !important;
+  }
+   %color-primary {
+       color:$primary;
+   }
+   %color-secondary {
+        color: $primary;
+   }
+  
+  %background-color-primary {
+      background: $primary;
+  }
+  %background-color-secondary {
+      background: $primary;
+  }
+  %color-body {
+      color: inherit;
+  }
+
+
+  
